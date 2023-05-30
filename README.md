@@ -1,5 +1,5 @@
 # begin
-introduction
+Profile introduction
 
 I have extensive experience in data analysis, with a focus on using Python and a variety of libraries to clean, explore, visualize, and analyze data. I have worked with a variety of data sets, including customer datasets, product datasets, and sales datasets. I have gained a number of insights into customer behavior, product performance, and sales trends. I have also faced a number of challenges, including data quality issues, missing data, and outliers. I have overcome these challenges by using a variety of techniques, including data cleaning methods, imputation methods, and outlier detection methods.
 
